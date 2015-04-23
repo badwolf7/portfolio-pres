@@ -1,6 +1,6 @@
 $(function(){
 	var htmlWidth = $('html').width();
-	var iframeMargin = htmlWidth / 10 + 100;
+	var iframeMargin = htmlWidth / 10 + 95;
 	
 	$('iframe.desktop').width(htmlWidth);
 	$('.img-frame').width(htmlWidth);
